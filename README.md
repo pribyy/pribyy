@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pribyy
 - 👀 I’m interested in ... a lot of random things.
-- 🌱 I’m currently learning ... HTML/CSS and Javascript.
+- 🌱 I’m currently learning ...React & Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
