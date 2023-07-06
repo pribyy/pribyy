@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pribyy
 - 👀 I’m interested in ... a lot of random things.
-- 🌱 I’m currently learning ...React & Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Typescript.
+- 💞️ I’m looking to collaborate on ... small projects. : )
 - 📫 How to reach me ... priscilla.lee.son@gmail.com
 
 <!---
