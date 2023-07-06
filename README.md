@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a lot of random things.
 - 🌱 I’m currently learning ...React & Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... priscilla.lee.son@gmail.com
 
 <!---
 pribyy/pribyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
